@@ -1,0 +1,7 @@
+[user]
+	name = User Name
+	email = user@email.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait
